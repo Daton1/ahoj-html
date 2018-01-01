@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="content-type"
+ content="text/html charset=ISO-8859-1">
+  <meta content="60" name="viewport"
+ http-equiv="refresh">
+  <style type="text/css">
+.auto-style1 {
+border: margin: 10px 10px; background-color: rgb(76, 175, 80); color: white; width: 100px; height: 70px; text-align: center; font-size: 16px; cursor: pointer;
+}</style>
+  <title>stranaka12</title>
+</head>
+<body>
+<center>
+<h1> Webserver ESP8266 + Pokusne ozhrani</h1>
+<h3>Domaci informacni a ovladaci system</h3>
+<h4>Ovladani zaluzii</h4>
+<table>
+  <tbody>
+    <tr>
+      <td>
+      <table
+ style="border-left: 5px solid white; border-right: 1px solid white; margin-left: 43px; width: 324px; height: 274px;">
+        <tbody>
+          <tr>
+            <td
+ style="border-top: 3px solid gray; border-bottom: 3px solid gray; background-color: rgb(255, 255, 204); text-align: center; height: 120px; width: 126px;">
+            <form action="/" method="post"><button
+ type="button submit" name="DG5" value="2"
+ class="auto-style1">slovo </button> </form>
+            <form action="/" method="post"><button
+ type="button submit" name="DG7" value="2"
+ class="auto-style1"> slovo2 </button></form>
+            <form action="/" method="post"> <button
+ type="button submit" name="DG7" value="2"
+ class="auto-style1"> slovo3 </button></form>
+            </td>
+            <td
+ style="border-top: 3px solid gray; border-bottom: 3px solid gray; height: 142px; background-color: rgb(9, 230, 244); text-align: center; vertical-align: middle; width: 111px;"
+ colspan="2">
+            <form action="/" method="post">
+              <center> <button
+ style="height: 220px; width: 80px; background-color: rgb(76, 175, 80); text-align: center; font-size: 16px;"
+ name="DG8" value="2">test</button></center>
+            </form>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+      <td> &nbsp;&nbsp;</td>
+      <td>
+      <table
+ style="border: 3px solid gray; text-align: center; width: 380px; height: 243px;"
+ rules="all">
+        <tbody>
+          <tr>
+            <td
+ style="background-color: rgb(255, 204, 255); height: 65px;"
+ colspan="4" ;="">
+            <h4 style="width: 320px;"> METEOROLOGICKA
+STANICE</h4>
+            </td>
+          </tr>
+          <tr border="" 3px="" solid="" gray="">
+            <td style="height: 37px;" colspan="2"><span>Teplota
+venku</span></td>
+            <td style="height: 37px;" colspan="2">Teplota
+uvnitr </td>
+          </tr>
+          <tr>
+            <td
+ style="width: 40px; background-color: rgb(102, 255, 153); height: 110px;"
+ colspan="2">
+            <h1 style="font-size: 50px;">12°C</h1>
+            </td>
+            <td
+ style="width: 40px; background-color: rgb(255, 255, 153); height: 110px;"
+ colspan="2">
+            <h1 style="font-size: 50px;">25°C </h1>
+            </td>
+          </tr>
+          <tr>
+            <td style="height: 33px;">22% </td>
+            <td style="height: 33px;">24% </td>
+            <td style="height: 33px;">26 </td>
+            <td style="height: 33px;"> 24</td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+      <td>
+      <table
+ style="border-left: 5px solid white; text-align: center; width: 94px; height: 280px;">
+        <tbody>
+          <tr>
+            <td
+ style="border-top: 3px solid gray; border-bottom: 3px solid gray; text-align: center; height: 236px; background-color: rgb(9, 230, 244);">
+            <form style="margin-top: 4px;" action="/"
+ method="post"><button
+ style="height: 240px; width: 60px; background-color: rgb(76, 175, 80); text-align: center; font-size: 16px;"
+ name="DG9" value="2">Radio<br>
+test</button></form>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br>
+</center>
+</body>
+</html>
